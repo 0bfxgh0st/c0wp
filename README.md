@@ -1,5 +1,5 @@
 # c0wp
-c0wp is a simple script to discover ipv4 hosts in the network based on ping command.  
+c0wp is a simple script to discover ipv4/ipv6 hosts in the network based on ping command.  
 
 ## Install
 
